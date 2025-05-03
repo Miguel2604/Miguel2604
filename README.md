@@ -1,6 +1,6 @@
-# 👋 Howdy, fellow code wranglers!
+# 👋 Hello Everyone!
 
-## I'm Miguel Kerdie B. Kalaw
+## I'm Miguel Kerdie B. Kalaw 👨‍💻
 
 A Computer Science student at Pamantasan ng Lungsod ng Maynila, currently trying to convince my computer that I *do* know what I'm doing.
 

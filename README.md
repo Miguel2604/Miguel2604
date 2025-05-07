@@ -44,7 +44,7 @@ A Computer Science student at Pamantasan ng Lungsod ng Maynila, currently trying
 ### ✨ Some Things I've Built (and surprisingly, they kinda work)
 
 1.  🐍 **[Conso](https://github.com/Yuyuhiei/conso-web-ide)**
-    * Made my our programming language with @Yuyuhiei called Conso. It resembles C but without the vowels 🤣
+    * Made a programming language together with @Yuyuhiei called Conso. It resembles C but without the vowels 🤣
 2.  🎰 **[Kachingko](https://github.com/Yuyuhiei/neosolve-kachingko)**
     * My hackathon team's (Neosolve) entry on the Springboard Hack-it 2025, an AI-powered financial companion that transforms everyday receipts into actionable, goal-driven financial intelligence.
 3.  👾 **[Spike-Escape (Atari 2600 Game)](https://github.com/Miguel2604/Spike-Escape-An-Atari-2600-Game-)**

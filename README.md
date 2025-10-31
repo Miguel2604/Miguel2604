@@ -35,3 +35,5 @@ A Computer Science student at Pamantasan ng Lungsod ng Maynila, currently trying
     * Developed a Messenger Bot for rush ph that serves 500+ users across metro manila, Users can message the facebook page of Rush PH to get train/bus arrival times without the need for a mobile data plan. Built on javascript, and uses Facebook Messenger API. (Project Contribution) 
 2.  💵 **[Payroll Automation]**
     * Automated Springboard's Payroll Workﬂow saving the accounting team hours of manual work in processing payroll for 10+ employees. Built with Javascript, Google Sheets API and Jibble's API. (Internship Project)
+3. 🛍️ **[Duty Free Philippines Blog Section]**
+    * Developed and deployed a new Blog Module for Duty Free Philippines’ e-commerce website, improving content discoverability and customer engagement. Built dynamic category pages, article templates, and an admin-friendly workflow, resulting in an estimated 20–30% faster content publishing and improved SEO performance.

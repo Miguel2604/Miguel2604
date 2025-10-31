@@ -4,17 +4,6 @@
 
 A Computer Science student at Pamantasan ng Lungsod ng Maynila, currently trying to convince my computer that I *do* know what I'm doing.
 
----
-
-### 🤔 A Little More About Me
-
-* 🚀 Exploring the fascinating (and occasionally terrifying) realms of **AI** and **Open Source**.
-* 🐧 Happiest when I'm knee-deep in a **Linux** terminal or tinkering with my **Homelab**.
-* 🏋️‍♂️ When the code gets heavy, I lift heavier things at the **gym**. It's called debugging... my muscles.
-* 🧠 Fueled by curiosity, coffee, and the occasional existential dread that comes with finding a bug at 3 AM.
-
----
-
 ### 📫 Let's Connect
 
 * 📧 **Email:** [kalawprofacc@gmail.com](mailto:kalawprofacc@gmail.com)
@@ -41,11 +30,9 @@ A Computer Science student at Pamantasan ng Lungsod ng Maynila, currently trying
 
 ---
 
-### ✨ Some Things I've Built (and surprisingly, they kinda work)
+### ✨ Some Things I've Built
 
-1.  🐍 **[Conso](https://github.com/Yuyuhiei/conso-web-ide)**
-    * Made a programming language together with @Yuyuhiei called Conso. It resembles C but without the vowels 🤣
-2.  🎰 **[Kachingko](https://github.com/Yuyuhiei/neosolve-kachingko)**
-    * My hackathon team's (Neosolve) entry on the Springboard Hack-it 2025, an AI-powered financial companion that transforms everyday receipts into actionable, goal-driven financial intelligence.
-3.  👾 **[Spike-Escape (Atari 2600 Game)](https://github.com/Miguel2604/Spike-Escape-An-Atari-2600-Game-)**
-    * My first solo game dev adventure! Written in 6502 Assembly using BatariBasic. Relive the glory days of extreme pixelation and pure panic. (School Project)
+1.  🚂 **[Rush-PH Messenger Bot](https://www.facebook.com/profile.php?id=61578840627727)**
+    * Developed a Messenger Bot for rush ph that serves 500+ users across metro manila, Users can message the facebook page of Rush PH to get train/bus arrival times without the need for a mobile data plan. Built on javascript, and uses Facebook Messenger API. (Project Contribution) 
+2.  💵 **[Payroll Automation]**
+    * Automated Springboard's Payroll Workﬂow saving the accounting team hours of manual work in processing payroll for 10+ employees. Built with Javascript, Google Sheets API and Jibble's API. (Internship Project)
